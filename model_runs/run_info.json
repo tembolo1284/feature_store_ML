@@ -1,0 +1,1 @@
+{"model_type": "RandomForestClassifier", "model_path": "model_runs/random_forest.joblib", "feature_store_path": "feature_store/features.csv", "accuracy": 1.0, "predictions_path": "model_runs/predictions.csv", "performance_metrics_path": "model_runs/performance_metrics.txt"}
